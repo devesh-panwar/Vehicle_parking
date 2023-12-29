@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CAR_PARKING</string>
+
+    <string-array name="parking_type">
+        <item> simple</item>
+        <item>indoor Parking</item>
+        <item>Outdoor Parking</item>
+        <item>Covered Parking</item>
+        <item>Reserved Parking</item>
+    </string-array>
+</resources>
